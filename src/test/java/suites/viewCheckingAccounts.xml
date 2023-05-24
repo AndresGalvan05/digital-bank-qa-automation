@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="View Checking Accounts Suite" verbose="1">
+    <test name="Toggle Button Test">
+        <classes>
+            <class name="scripts.ViewCheckingToggleButtonTest"/>
+        </classes>
+    </test>
+</suite>

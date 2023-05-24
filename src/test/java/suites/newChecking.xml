@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="New Checking Suite" verbose="1">
+    <test name="New Checking">
+        <classes>
+            <class name="scripts.NewCheckingCreateAccountTest"/>
+        </classes>
+    </test>
+
+    <test name="New Checking Reset Button Test">
+        <classes>
+            <class name="scripts.NewCheckingResetButtonTest"/>
+        </classes>
+    </test>
+</suite>
