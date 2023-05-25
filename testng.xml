@@ -9,7 +9,7 @@
     </suite-files>
 
     <suite-files>
-        <suite-file path="src/test/java/suites/savingsSearch.xml"/>
+        <suite-file path="src/test/java/suites/viewSavings.xml"/>
     </suite-files>
 
     <suite-files>
@@ -17,7 +17,11 @@
     </suite-files>
 
     <suite-files>
-        <suite-file path="src/test/java/suites/viewCheckingAccounts.xml"/>
+        <suite-file path="src/test/java/suites/viewChecking.xml"/>
+    </suite-files>
+
+    <suite-files>
+        <suite-file path="src/test/java/suites/profile.xml"/>
     </suite-files>
 </suite>
 
